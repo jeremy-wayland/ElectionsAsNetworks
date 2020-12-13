@@ -21,7 +21,6 @@ As you can see this research is ambitous in scope. The portion alotted for this 
 This project is a contribution to a larger research initiative: to package the formalism of structured cospans and the subsequent results on the theory of networks into a strongly typed language that can be leveraged by scientists using networks. The idea is to provide universal accessibility to the formalism via an open source interface, eliminating the need to parse through dozens of papers and advancing the use of category theory in modern applied sciences. This project is an experiment attempting to determine which parts of the formalism are important when looking at voting systems; this will hopefully give insight into the best implementation	for the general network formalism.
 
 
-=======
 A class project for CS510 and CS520 in the CADS PhD program at Chapman University that looks to extend my research as an undergrad. The goal will be to implement the action performed when computing the results of an election in a way that is consistent with category theory models of generalized open networks. Details on the goals and background of this project can be found in Wayland2019 and Project_Proposal. Initially this project will simulate a generalized voting system using R. Once a foundational understanding has been achieved from a programming perspective, the implementation can be translated into Haskell which has the potential to truly build a model consistent with the underlying category theory.
 
 
@@ -29,4 +28,3 @@ A class project for CS510 and CS520 in the CADS PhD program at Chapman Universit
 All that has been developed thus far is a playground (programmed in R) for testing out and understanding the compuational aspects of computing an election when we view it formally as a specialized type of network. More than anything, this is a mental check that the formalism developed in Wayland2019 can indeed compute the outcome of a given election, for example a presidential election. 
 * See Elections_as_Networks/R/Voting_Systems_in_R.ipynb to interact
 * Note: this is a jupyter notebook run with an R kernel. To run this notebook you'll need a way to host a jupyter notebook (e.g. via Anaconda https://docs.anaconda.com/anaconda/install/). You can add an R kernel by following this guide: https://irkernel.github.io/
->>>>>>> 2a800a3b91729b923bce4c13d0de4c03cd34b5b5
