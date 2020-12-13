@@ -1,5 +1,4 @@
 # Elections_as_Networks
-<<<<<<< HEAD
 A class project for CS510 and CS520 in the CADS PhD program at Chapman University.
 
 ## Usage
