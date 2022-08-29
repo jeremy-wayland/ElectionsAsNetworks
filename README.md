@@ -1,5 +1,5 @@
 # Elections_as_Networks
-A class project for CS510 and CS520 in the CADS PhD program at Chapman University.
+A class project for CS510 and CS520 in the CADS program at Chapman University.
 
 ## Usage
 Use Voting_Systems_in_R.ipynb: this is an interactive jupyter notebook, loaded with an R kernel. To run this notebook you'll need a way to host a jupyter notebook (e.g. via Anaconda. See https://docs.anaconda.com/anaconda/install/). You can add an R kernel by following this guide: https://irkernel.github.io/.
